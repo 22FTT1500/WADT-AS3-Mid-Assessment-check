@@ -9,18 +9,16 @@ import HelloWorld from "./components/HelloWorld.vue";
     <div class="max-w-2xl mx-auto text-center">
       <img
         class="w-32 h-32 rounded-full mx-auto mb-4"
-        src="https://placehold.co/128x128"
+        src="./assets/babycat.jpg"
         alt="Profile image"
       />
-      <h1 class="text-4xl font-bold mb-2">CREATIVE PORTFOLIO</h1>
+      <h1 class="text-4xl font-bold mb-2">ABOUT ME</h1>
       <p class="mb-4">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac
-        nulla consequat aliquet id quis turpis. Etiam nec elit tristique,
-        fermentum nunc vel, gravida nunc. Cras aliquet, nunc sit amet
-        scelerisque ullamcorper, leo dolor tempus magna, vitae cursus nisl dui
-        at ipsum. Donec et sapien pellentesque, fermentum felis vitae, ultricies
-        eros.
+        Hi my name is Aliffah Taib. I am a student at Politeknik Brunei taking
+        course in Diploma in Web Development. I am currently in my final
+        semester and I am looking forward to graduate soon.
       </p>
+      <br />
       <div class="mb-8 px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div class="bg-white bg-orange-200 p-4 rounded-lg shadow-md">
