@@ -21,7 +21,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <br />
       <div class="mb-8 px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div class="bg-white bg-orange-200 p-4 rounded-lg shadow-md">
+          <div class="bg-orange-200 p-4 rounded-lg shadow-md">
             <h3 class="text-lg font-bold mb-2">Hobbies</h3>
             <p class="text-zinc-600">
               I love watching youtube videos and listening to music. During my
@@ -29,7 +29,7 @@ import HelloWorld from "./components/HelloWorld.vue";
               mboile games with my friends.
             </p>
           </div>
-          <div class="bg-white bg-orange-200 p-4 rounded-lg shadow-md">
+          <div class="bg-orange-200 p-4 rounded-lg shadow-md">
             <h3 class="text-lg font-bold mb-2">Interest</h3>
             <p class="text-zinc-600">Cooking</p>
             <p class="text-zinc-600">Photography</p>
