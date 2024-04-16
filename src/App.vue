@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
-</script>
-
 <template>
   <div
     class="flex flex-col items-center justify-center min-h-screen bg-zinc-100 p-4 text-zinc-800 dark:text-white"
