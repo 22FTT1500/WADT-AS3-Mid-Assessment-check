@@ -8,7 +8,7 @@
         src="./assets/babycat.jpg"
         alt="Profile image"
       />
-      <h1 class="text-4xl font-bold mb-2">HELLO</h1>
+      <h1 class="text-4xl font-bold mb-2">ABOUT</h1>
       <p class="mb-4">
         Hi my name is Aliffah Taib. I am a student at Politeknik Brunei taking
         course in Diploma in Web Development. I am currently in my final
