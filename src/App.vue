@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-center justify-center min-h-screen bg-zinc-100 p-4 text-zinc-800 dark:text-white"
+    class="flex flex-col items-center justify-center min-h-screen bg-slate-400 p-4 text-zinc-800 dark:text-white"
   >
     <div class="max-w-2xl mx-auto text-center">
       <img
