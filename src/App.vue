@@ -5,7 +5,7 @@
     <div class="max-w-2xl mx-auto text-center">
       <img
         class="w-32 h-32 rounded-full mx-auto mb-4"
-        src="./assets/babycat.jpg"
+        src="./assets/student.jpg"
         alt="Profile image"
       />
       <h1 class="text-4xl font-bold mb-2">ABOUT ME</h1>
